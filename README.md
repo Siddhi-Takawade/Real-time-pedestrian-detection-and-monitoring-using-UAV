@@ -1,4 +1,4 @@
-# Social Distancing ( YOLOv3 )
+# Real time pedestrian detection and monitoring ( YOLOv3 )
 
 Program to detect social distancing violations in a video using YOLOv3.
 
